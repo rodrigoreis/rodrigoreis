@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoreis&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
+  <p>&nbsp;</p>
+
 <div> 
   <a href="https://instagram.com/rodrigosor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?flat&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrigosor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?flat&logo=gmail&logoColor=white" target="_blank"></a>
