@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Além de satisfação profissional, trabalhar na área de computação é sempre uma oportunidade para alinhar a carreira com estudos acadêmicos e experiências. Sendo assim o meu foco é sempre uma posição de arquitetura de software, o que inclui a oportunidade para usar a experiência em desenvolvimento de aplicações para web, analise de sistemas, analise de projetos e levantamento de requisitos.
-
 <div>
   <a href="https://github.com/rodrigoreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoreis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
