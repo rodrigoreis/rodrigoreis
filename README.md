@@ -9,9 +9,9 @@
   <p>&nbsp;</p>
 
 <div> 
-  <a href = "mailto:rodrigo@rodrigoreis.net"><img src="https://img.shields.io/static/v1?label=email&message=rodrigo@rodrigoreis.net&color=#000" target="_blank"></a>
-  <a href="https://instagram.com/rodrigosor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?flat&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/rodrigosor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrigo@rodrigoreis.net" target="_blank"><img src="https://img.shields.io/badge/rodrigo@rodrigoreis.net-red?style=social&logo=gmail&logoColor=red"></a>
+  <a href="https://instagram.com/rodrigosor" target="_blank"><img src="https://img.shields.io/badge/@rodrigosor-2.5k-%23E4405F?style=social&logo=instagram&logoColor=%23E4405F"></a>  
+  <a href="https://www.linkedin.com/in/rodrigosor" target="_blank"><img src="https://img.shields.io/badge/@rodrigosor-1k-blue?style=social&logo=linkedin&logoColor=blue"></a>
   <a href="https://twitter.com/rodrigoreis" target="_blank"><img src="https://img.shields.io/twitter/follow/rodrigoreis?label=me%20siga%20%40rodrigoreis"></a>
 </div>
 
