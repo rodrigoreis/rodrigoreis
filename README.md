@@ -4,11 +4,11 @@
   <a href="https://github.com/rodrigoreis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoreis&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoreis&layout=compact&langs_count=7&theme=nightowl"/>
-</div>-->
+</div>
+  <p>&nbsp;</p>
+-->
 
 ![Metrics](https://metrics.lecoq.io/rodrigoreis)
-
-  <p>&nbsp;</p>
 
 <div> 
   <a href = "mailto:rodrigo@rodrigoreis.net" target="_blank"><img src="https://img.shields.io/badge/rodrigo@rodrigoreis.net-red?style=social&logo=gmail&logoColor=red"></a>
